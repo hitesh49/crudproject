@@ -1,0 +1,22 @@
+{
+  "patients": [
+    {
+      "firstName": "Shubham",
+      "lastName": "verma",
+      "email": "hiteshverma49@gmail.com",
+      "id": 1
+    },
+    {
+      "firstName": "Manoj ",
+      "lastName": "Joshi",
+      "email": "manoj99@gmail.com",
+      "id": 3
+    },
+    {
+      "firstName": "Dilip",
+      "lastName": "Patider",
+      "email": "patider67@gmail.com",
+      "id": 5
+    }
+  ]
+}
